@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](proyect.png)
+![screenshot](src/proyect.png)
 
 ### What I learned
 
